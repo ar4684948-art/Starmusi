@@ -1,0 +1,6 @@
+{
+  "name": "PayLink",
+  "description": "A modern fintech mobile application supporting mobile money, multi-currency, secure wallets, peer-to-peer transfers, and smart payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
